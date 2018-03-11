@@ -7,8 +7,11 @@
 Clone the repository and run the following commands inside the main directory: 
 
 mkdir build 
+
 cd build 
+
 cmake ..
+
 build 
 
 ## Running the project 
