@@ -17,5 +17,5 @@ build
 ## Running the project 
 Follow the instructions provided in the below link: 
 
-[https://github.com/udacity/CarND-Extended-Kalman-Filter-Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project)
+[https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project)
 
