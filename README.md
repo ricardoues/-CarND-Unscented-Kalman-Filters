@@ -5,6 +5,7 @@
 
 ## How to compile the project
 Clone the repository and run the following commands inside the main directory: 
+
 mkdir build 
 cd build 
 cmake ..
